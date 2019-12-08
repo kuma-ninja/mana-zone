@@ -7,15 +7,15 @@ Scryfall is a platform that make possible searching cards through their own [que
 
 ## Roadmap
 - [ ] Implement user session
- - [ ] Define what technology to use: Local storage, cache, cookie, register, Fingerprint.js?
+  - [ ] Define what technology to use: Local storage, cache, cookie, register, Fingerprint.js?
 - [ ] Create an API capable of searching over card catalog
 - [ ] Implement wishlist
 - [ ] Create lean card detail screen
 - [ ] Add pricing feature into detail screen
- - [ ] List pricing by previously selected vendors
- - [ ] Create a shopping cart on vendor from a whishlist within Mana Zone
+  - [ ] List pricing by previously selected vendors
+  - [ ] Create a shopping cart on vendor from a whishlist within Mana Zone
 
 ### Nice to have
 - [ ] Translate natural language into Scryfall query
- - [ ] en-US
- - [ ] pt-BR
+  - [ ] en-US
+  - [ ] pt-BR
