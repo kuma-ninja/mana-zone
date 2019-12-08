@@ -3,6 +3,5 @@ Project intended to expose easy filtering and searching capability over **Magic 
 
 To avoid being yet another MTG card website, we intend to be yet another MTG card website **with steroids**.  
 
-This project intends to make possible to facilitate your journey from card searching to deck composition and even 
-looking for the vendor that best suits your budget and making possible doing a wishlist to shop cart integration to 
-avoid the harassment of nitpicking each card until shopping checkout.  
+This project intends to facilitate your journey from card searching and deck building until 
+looking for the shop that best suits your budget and making possible to export your custom card list into the shop cart.
